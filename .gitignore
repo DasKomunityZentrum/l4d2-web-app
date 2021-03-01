@@ -1,0 +1,6 @@
+app/config/local.neon
+
+vendor
+temp
+log
+.idea
